@@ -14,4 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference. -->
-Working on the Documentation....
+- State management library.
+                                    Getx
+- Cloud service for storage.
+                                    None
+- Approach for making the application responsive.
+                                    instead of using constants as dimensions, I prefer using functions such as getHeight, getWidth and getText, which configure the widgets dimensions according to the constraints of the device.
+                                    
