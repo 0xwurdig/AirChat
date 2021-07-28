@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898093461842",
+    "project_id": "aich-8e747",
+    "storage_bucket": "aich-8e747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898093461842:android:7c7f81e14f0a4e1be88a8b",
+        "android_client_info": {
+          "package_name": "xyz.wurdigmich.aic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898093461842-tlntip7gk9ajbgii2g464rdj41oe10k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwS4GtjVjvpfyMYV5t9p0Pm1v70rHmMhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898093461842-tlntip7gk9ajbgii2g464rdj41oe10k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
